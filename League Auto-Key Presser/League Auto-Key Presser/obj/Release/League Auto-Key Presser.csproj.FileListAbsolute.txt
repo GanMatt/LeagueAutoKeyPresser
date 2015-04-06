@@ -1,0 +1,12 @@
+C:\Users\Matthew\Documents\Visual Studio 2013\Projects\League Auto-Key Presser\League Auto-Key Presser\bin\Release\League Auto-Key Presser.exe.config
+C:\Users\Matthew\Documents\Visual Studio 2013\Projects\League Auto-Key Presser\League Auto-Key Presser\bin\Release\League Auto-Key Presser.exe
+C:\Users\Matthew\Documents\Visual Studio 2013\Projects\League Auto-Key Presser\League Auto-Key Presser\bin\Release\League Auto-Key Presser.pdb
+C:\Users\Matthew\Documents\Visual Studio 2013\Projects\League Auto-Key Presser\League Auto-Key Presser\bin\Release\Gma.UserActivityMonitor.dll
+C:\Users\Matthew\Documents\Visual Studio 2013\Projects\League Auto-Key Presser\League Auto-Key Presser\obj\Release\League Auto-Key Presser.csprojResolveAssemblyReference.cache
+C:\Users\Matthew\Documents\Visual Studio 2013\Projects\League Auto-Key Presser\League Auto-Key Presser\obj\Release\League_Auto_Key_Presser.Properties.Resources.resources
+C:\Users\Matthew\Documents\Visual Studio 2013\Projects\League Auto-Key Presser\League Auto-Key Presser\obj\Release\League Auto-Key Presser.csproj.GenerateResource.Cache
+C:\Users\Matthew\Documents\Visual Studio 2013\Projects\League Auto-Key Presser\League Auto-Key Presser\obj\Release\League Auto-Key Presser.exe
+C:\Users\Matthew\Documents\Visual Studio 2013\Projects\League Auto-Key Presser\League Auto-Key Presser\obj\Release\League Auto-Key Presser.pdb
+C:\Users\Matthew\Documents\Visual Studio 2013\Projects\League Auto-Key Presser\League Auto-Key Presser\bin\Release\WindowsInput.dll
+C:\Users\Matthew\Documents\Visual Studio 2013\Projects\League Auto-Key Presser\League Auto-Key Presser\bin\Release\WindowsInput.pdb
+C:\Users\Matthew\Documents\Visual Studio 2013\Projects\League Auto-Key Presser\League Auto-Key Presser\bin\Release\WindowsInput.xml
